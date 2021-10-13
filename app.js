@@ -1,5 +1,3 @@
-
-
 const routes = {
   '/': home,
   '/result': result,
